@@ -124,22 +124,24 @@ Infrastructure management and server configuration.
 />
 </td>
 
+
 <td width="33%">
 <img 
-  src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
+  src="https://media1.tenor.com/m/WpBHdE0ERiYAAAAd/dante-devil-may-cry-dmc3spinning.gif" 
   width="100%" 
 />
 </td>
 
+
+
 <td width="33%">
 <img 
-  src="https://giffiles.alphacoders.com/171/171294.gif" 
+  src="https://media1.tenor.com/m/dCrnwgCPHz0AAAAd/cruising-dante.gif" 
   width="100%" 
 />
 </td>
 
-</tr>
-</table>
+
 
 
 ---
