@@ -15,14 +15,16 @@ incident response, and secure large-scale systems.
 
 </td>
 
+
 <td width="45%" align="right">
 
 <img 
-  src="https://giffiles.alphacoders.com/171/171318.gif"
+  src="https://media.giphy.com/media/65UnvXXQQLH9hPkyzh/giphy.gif"
   width="100%"
 />
 
 </td>
+
 
 </tr>
 </table>
@@ -117,20 +119,25 @@ Infrastructure management and server configuration.
 <table width="100%">
 <tr>
 
+
 <td width="33%">
 <img 
-  src="https://giffiles.alphacoders.com/171/171475.gif" 
+  src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnQ3bmpieHB3M2RmOGs1bnE4bGp1bWVlYWRvNTVvZmdhc3BoNGNzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DY1KSjEuVMarPIzfkq/200.webp" 
   width="100%" 
 />
 </td>
 
 
+
 <td width="33%">
 <img 
-  src="https://media1.tenor.com/m/WpBHdE0ERiYAAAAd/dante-devil-may-cry-dmc3spinning.gif" 
+  src="https://i.giphy.com/media/xDwKb3alQ3BW1qILxM/giphy.gif" 
   width="100%" 
 />
 </td>
+
+
+
 
 
 
@@ -144,7 +151,6 @@ Infrastructure management and server configuration.
 
 
 
----
 
 ## Contact Me
 
