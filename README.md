@@ -1,30 +1,28 @@
+
 <table width="100%">
 <tr>
 
 <td width="55%" valign="middle">
 
-# Lucas Oliveira🍕
+# Lucas Oliveira 🍕
 
 ### Software Engineer · Computer Science Student
 
 > FullStack • C#/ASPNET • Linux • MAC/IOS • SOC • PYTHON
 
-Currently focused on **.NET PLATFORM**, infrastructure,  
+Currently focused on **.NET PLATFORM**, infrastructure,
 incident response, and secure large-scale systems.
-
 
 </td>
 
-
 <td width="45%" align="right">
 
-<img 
+<img
   src="https://media.giphy.com/media/65UnvXXQQLH9hPkyzh/giphy.gif"
   width="100%"
 />
 
 </td>
-
 
 </tr>
 </table>
@@ -67,6 +65,7 @@ Distributed systems, messaging and database optimization.
 <td align="center" width="33%">
 
 ### ⚙️ Operational Systems
+
 Linux internals, permissions and system architecture.
 
 </td>
@@ -82,6 +81,7 @@ Containers, CI/CD pipelines and cloud infrastructure.
 <td align="center" width="33%">
 
 ### 🖥️ System Administration
+
 Infrastructure management and server configuration.
 
 </td>
@@ -94,24 +94,13 @@ Infrastructure management and server configuration.
 ## Tech Stack
 
 <p align="center">
-  <img 
-```html
-## Tech Stack
-
-<p align="center">
-  <img 
+  <img
     src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,postgres,linux,apple,docker,git,github,java&perline=6"
-    ```html
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
   />
 </p>
 
-
-</p>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -119,42 +108,39 @@ Infrastructure management and server configuration.
 <table width="100%">
 <tr>
 
-
 <td width="33%">
-<img 
-  src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnQ3bmpieHB3M2RmOGs1bnE4bGp1bWVlYWRvNTVvZmdhc3BoNGNzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DY1KSjEuVMarPIzfkq/200.webp" 
-  width="100%" 
+<img
+  src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnQ3bmpieHB3M2RmOGs1bnE4bGp1bWVlYWRvNTVvZmdhc3BoNGNzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DY1KSjEuVMarPIzfkq/200.webp"
+  width="100%"
 />
 </td>
 
-
-
 <td width="33%">
-<img 
-  src="https://i.giphy.com/media/xDwKb3alQ3BW1qILxM/giphy.gif" 
-  width="100%" 
+<img
+  src="https://i.giphy.com/media/xDwKb3alQ3BW1qILxM/giphy.gif"
+  width="100%"
 />
 </td>
 
-
-
-
-
-
 <td width="33%">
-<img 
-  src="https://media1.tenor.com/m/dCrnwgCPHz0AAAAd/cruising-dante.gif" 
-  width="100%" 
+<img
+  src="https://media1.tenor.com/m/dCrnwgCPHz0AAAAd/cruising-dante.gif"
+  width="100%"
 />
 </td>
 
+</tr>
+</table>
 
-
-
+---
 
 ## Contact Me
 
 <p align="center">
+
+<a href="https://lucdevv.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio%20Digital-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/lucas-montalv%C3%A3o-gon%C3%A7alves-de-oliveira-781998342/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -169,3 +155,4 @@ Infrastructure management and server configuration.
 </a>
 
 </p>
+
